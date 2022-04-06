@@ -355,6 +355,16 @@ header {
     width: 30%;
 }
 
+.hr1 {
+    position: absolute;
+    height: 2px;
+    width: 1349px;
+    top: 1287px;
+    border-radius: 10px;
+
+
+}
+
 .whydo {
     position: absolute;
     width: 408px;
@@ -407,6 +417,115 @@ header {
 
 }
 
+.ask {
+    position: absolute;
+    width: 266px;
+    height: 35px;
+    left: 440px;
+    top: 1861px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 35px;
+    color: #373867;
+}
+
+.inputs {
+    position: absolute;
+    height: 37px;
+    left: 30.66%;
+    right: 38.99%;
+    top: 1939px;
+
+} 
+
+.buttommessage {
+    position: absolute;
+    width: 190px;
+    height: 47px;
+    left: 440px;
+    top: 2367px;
+}
+
+.buttomreset {
+    position: absolute;
+    width: 190px;
+    height: 47px;
+    left: 550px;
+    top: 2367px;
+   
+}
+
+.aboutus {
+    position: absolute;
+    width: 266px;
+    height: 35px;
+    left: 440px;
+    top: 2542px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 35px;
+    color: #373867;
+
+}
+
+.loremaboutus {
+    position: absolute;
+    width: 383px;
+    height: 210px;
+    left: 444px;
+    top: 2627px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 30px;
+    color: #373867;
+
+}
+
+.imageradiumrocket {
+    position: absolute;
+    width: 369px;
+    height: 369px;
+    left: 838px;
+    top: 2450px;
+    background: #F8F8F8;
+    
+}
+
+.hr4 {
+    position: absolute;
+    height: 2px;
+    width: 1349px;
+    top: 1850px;
+    border-radius: 10px;
+
+
+}
+
+
+
+.products {
+    display: inline-block;
+    position: absolute;
+    width: 93px;
+    height: 98px;
+    left: 435px;
+    top: 3176px;
+}
+
+.footer {
+    position: absolute;
+    width: 1097px;
+    height: 96px;
+    left: 343px;
+    top: 3383px;
+    background: #D9D9E2;
+}
 
 
  
