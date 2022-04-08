@@ -314,6 +314,9 @@ header {
     height: 64px;
     left: 435px;
     top: 880px;
+    margin-left: 2px;
+    border-style: outset;
+    box-shadow: 16px;
 }
 
 .card2 {
@@ -323,6 +326,9 @@ header {
     height: 64px;
     left: 955px;
     top: 880px;
+    margin-left: 2px;
+    border-style: outset;
+    
 
 }
 
@@ -333,6 +339,8 @@ header {
     height: 64px;
     left: 435px;
     top: 1102px;
+    margin-left: 2px;
+    border-style: outset;
 
 }
 
@@ -343,6 +351,8 @@ header {
     height: 64px;
     left: 955px;
     top: 1112px;
+    margin-left: 2px;
+    border-style: outset;
 
 } 
 .img-container {
@@ -386,6 +396,9 @@ header {
     height: 64px;
     left: 436px;
     top: 1450px;
+    margin-left: 2px;
+    border-style: outset;
+    
 }
 
 .card6 {
@@ -395,6 +408,8 @@ header {
     height: 64px;
     left: 965px;
     top: 1457px;
+    margin-left: 2px;
+    border-style: outset;
 }
 
 .card7 {
@@ -404,6 +419,8 @@ header {
     height: 64px;
     left: 435px;
     top: 1636px;
+    margin-left: 2px;
+    border-style: outset;
 
 }
 
@@ -414,6 +431,8 @@ header {
     height: 64px;
     left: 965px;
     top: 1637px;
+    margin-left: 2px;
+    border-style: outset;
 
 }
 
